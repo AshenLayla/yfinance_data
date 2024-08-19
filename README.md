@@ -16,7 +16,7 @@ This repository contains two Python scripts that download and save data from the
 
 This project uses the Yahoo Finance API to fetch data. Please note that:
 
-* The Yahoo Finance API is used under the terms of the [Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/index.htm) and [Yahoo API Terms of Service](https://legal.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.html).
+* The Yahoo Finance API is used under the terms of the [Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/index.htm) and [Yahoo Developer API Terms of Use](https://legal.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.html).
 * The API is subject to rate limits, and excessive usage may result in IP blocking.
 * The API may change or be discontinued at any time, which could affect the functionality of this project.
 
