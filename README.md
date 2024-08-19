@@ -12,6 +12,15 @@ This repository contains two Python scripts that download and save data from the
 * `yfinance` library
 * `requests_cache` library
 
+## Yahoo Finance API
+
+This project uses the Yahoo Finance API to fetch data. Please note that:
+
+* The Yahoo Finance API is used under the terms of the [Yahoo Terms of Service](https://policies.yahoo.com/us/en/yahoo/terms/index.htm).
+* The API is subject to rate limits, and excessive usage may result in IP blocking.
+* The API may change or be discontinued at any time, which could affect the functionality of this project.
+
+
 ## Usage
 
 1. Run `book_data_sp500_yfinance.py` to download and save book data for all S&P 500 companies. This will create separate Excel files for each company.
