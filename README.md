@@ -2,8 +2,8 @@
 
 This repository contains two Python scripts that download and save data from the Yahoo Finance API:
 
-1. `book_data_sp500_yfinance.py`: Downloads and saves book data (financials, balance sheet, cashflow, etc.) for all S&P 500 companies.
-2. `market_data_sp500_yfinance.py`: Downloads and saves historical market data for all S&P 500 companies.
+1. `book_data_sp500_yfinance.py`: Downloads and saves book data (fundamental data) (financials, balance sheet, cashflow, etc.) for all S&P 500 companies. The data is saved in different "ticker".xlsx files.
+2. `market_data_sp500_yfinance.py`: Downloads and saves historical market data for all S&P 500 companies (prices, volumes). The data is saved in one .xlsx.
 
 ## Requirements
 
